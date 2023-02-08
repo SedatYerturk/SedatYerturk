@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python and AI applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via twitter/blekvuud
+- ✅ I've been active on Github since January 15, 2023
